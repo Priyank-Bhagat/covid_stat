@@ -1,6 +1,6 @@
 # covid_stats
 
-A new Flutter project.
+a simple app that shows statistics about COVID-19.
 
 ## Getting Started
 
