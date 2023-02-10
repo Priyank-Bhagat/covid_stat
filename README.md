@@ -1,6 +1,6 @@
 # covid_stats
 
-a simple app that shows statistics about COVID-19.
+A simple app that shows statistics about COVID-19.
 
 ## Demo
 
