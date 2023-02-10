@@ -6,8 +6,9 @@ a simple app that shows statistics about COVID-19.
 
 <p> 
     <img width="200" src="https://user-images.githubusercontent.com/115228605/218117727-39d698a4-6e75-40cc-9b54-14abf222e79d.jpeg" alt="something was here🤔">
-    <img width="200" src="https://user-images.githubusercontent.com/115228605/218117569-33676e45-086c-462c-b8c3-6b6643109562.mp4" alt="something was here🤔">
+    <img width="200" src="https://user-images.githubusercontent.com/115228605/218120816-dfa92b44-7ddd-41d0-b813-72fa0288d1fc.gif" alt="something was here🤔">
 </p>
+
 
 
 ## Getting Started
